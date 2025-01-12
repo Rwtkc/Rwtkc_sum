@@ -1,0 +1,11 @@
+Package: RwtkcPkg
+Title: Sum function for Rwtkc
+Version: 0.0.1
+Authors@R: 
+    person(given = "Rwtkc", family = "Author", email = "rwtkc@foxmail.com", role = c("aut", "cre"))
+Description: Developed by Rwtkc, this addition function is intended for testing purposes.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
+Imports: 
